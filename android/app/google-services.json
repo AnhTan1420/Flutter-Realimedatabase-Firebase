@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187999466272",
+    "project_id": "chat-realtime-e3483",
+    "storage_bucket": "chat-realtime-e3483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187999466272:android:25d0149c3386a6584e9d45",
+        "android_client_info": {
+          "package_name": "com.example.chat_realtime_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187999466272-u785aq83u8ufgh3kc9iapppm0r5bo49j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTEloqKipPRDoWbNIqlA4HF62PYag2w38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187999466272-u785aq83u8ufgh3kc9iapppm0r5bo49j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
